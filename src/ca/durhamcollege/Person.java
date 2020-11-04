@@ -31,6 +31,10 @@ public class Person
     }
 
     //CONSTRUCTORS
+
+    /**
+     * This is the default constructor that sets the name to "unknown" and age to 0
+     */
     public Person()
     {
        this.m_name="unknown";
